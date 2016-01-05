@@ -13,3 +13,5 @@ for (i = 0; i < 100; i++) {
 }
 
 console.log(money);
+
+app.listen(3000);
