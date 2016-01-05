@@ -11,3 +11,5 @@ for (i = 0; i < 100; i++) {
     console.log("not divisible by 3 or 5");
   }
 }
+
+console.log(money);
