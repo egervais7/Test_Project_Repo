@@ -1,6 +1,7 @@
-<<<<<<< HEAD
+var express = require('express');
+
 var money = "dolla dolla bills";
-=======
+
 for (i = 0; i < 100; i++) {
   if (i % 5 === 0) {
     console.log(i);
@@ -10,4 +11,3 @@ for (i = 0; i < 100; i++) {
     console.log("not divisible by 3 or 5");
   }
 }
->>>>>>> 8dfc9017620ce058a5f681f6c50673850535e7a9
